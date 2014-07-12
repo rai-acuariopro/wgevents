@@ -5,10 +5,4 @@
 	*	This file include all child functions
 	*	---------------------------------------------------------------------
 	*/
-	
-	/*	
-	*	Testing GitHub
-	*/
-	
-	
 ?>
