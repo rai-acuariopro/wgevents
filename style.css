@@ -1,0 +1,57 @@
+/* @override 
+	http://localhost:8888/waheguru/wp-content/themes/flawless-child/style.css?ver=3.9.1
+*/
+
+/*
+ Theme Name:	Flawless Child
+ Theme URI:		http://themes.goodlayers2.com/flawless
+ Description:	Flawless Wordpress Theme
+ Author:		Goodlayers
+ Author URI:	http://www.goodlayers.com
+ Template:		flawless-v1-16
+ Version:		1.16
+ Tags:			white, light, Green, two-columns, fluid-layout, custom-background, custom-colors, featured-images, theme-options
+ Text Domain:	gdlr_translate
+*/
+
+@import url("../flawless-v1-16/style.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+#menu-home li.flagg.menu-item {
+	margin-top: 9px;
+}
+
+#wrapper-titulo div.gdlr-layerslider-item.gdlr-slider-item.gdlr-item {
+	margin-bottom: 0;
+}
+
+div.gdlr-item.gdlr-accordion-item.style-1 {
+	background-color: #f5f5f5;
+}
+
+div.gdlr-divider.thick {
+	border-bottom-width: 0px;
+}
+
+#acordionuno div.accordion-tab div.accordion-content p {
+	color: #424242;
+}
+
+#faces h4.gdlr-banner-title {
+	color: #feffff;
+	background-color: #3c9a4b;
+	padding-left: 3px;
+	padding-bottom: 5px;
+}
+
+#faces div.gdlr-banner-description {
+	color: #eaeaea;
+	background-color: #d86a3c;
+	padding-left: 5px;
+}
+
+.footer-wrapper {
+	border-top-width: 2px;
+}
